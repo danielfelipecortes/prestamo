@@ -1,0 +1,12 @@
+<option value=0>Razon</option>
+<option value=1>Presentacion</option>
+<option value=2>Reunion</option>
+<option value=3>Videoconferencia</option>
+<option value=4>Telepresencia</option>
+<option value=5>Evaluacion</option>
+<option value=6>Registro</option>
+<option value=7>Investigacion</option>
+<option value=8>Inscripcion</option>
+<option value=9>Clase</option>
+<option value=10>Examen</option>
+<option value=11>Practica</option>

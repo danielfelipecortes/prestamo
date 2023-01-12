@@ -1,0 +1,10 @@
+<option value=1>Lenovo</option>
+<option value=2>Dell</option>
+<option value=3>Samsung</option>
+<option value=4>Compaq</option>
+<option value=5>Apple</option>
+<option value=6>Toshiba</option>
+<option value=7>Nec</option>
+<option value=8>Hewlett-Packard</option>
+<option value=9>D-link</option>
+<option value=10>Asus</option>
